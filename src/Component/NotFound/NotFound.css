@@ -1,0 +1,31 @@
+.not-found{
+    height: 100vh;
+  }
+  .not-found .text{
+    font-size: 60px;
+    font-weight: 900;
+    padding-bottom: 10px;
+    color: #4D9049;
+  }
+  .not-found h2{
+      font-size: 35px;
+  }
+  .emoji{
+      width: 350px;
+      height: 350px;
+  }
+  .not-found-btn{
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 30px;
+    background-color: #f4f4f4;
+    color: #4D9049;
+    border: 1px solid #4D9049;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .not-found-btn:hover{
+    background-color: #4D9049;
+    color: #f4f4f4;
+  }

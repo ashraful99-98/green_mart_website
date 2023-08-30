@@ -1,0 +1,80 @@
+.slider-img{
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height:500px;
+}
+.slider-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+    text-align: right;
+}
+.slider-btn{
+    text-decoration: none;
+    background-color: #00AB55;
+    color: black;
+    border: none;
+    font-weight: 600;
+    border-radius: 4px;
+    padding: 5px 14px;
+}
+.slider-btn:hover{
+    color: #fff;
+}
+.freeShipping-col{
+    background-color: #F4F6F8;
+    padding: 10px 0;
+}
+.span-text{
+    color:#01AB55;
+}
+.vegetables-div{
+    padding: 40px 0;
+}
+.vegetables-info{
+    padding-top: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    align-items: left; 
+}
+.vegetables-text{
+    margin-bottom: 20px;
+}
+.vegetables-text-h4{
+    margin-bottom: 20px;
+    color:#01AB55;
+}
+.vegetables-btn{
+    text-decoration: none;
+    background-color: #FFB240;
+    color: black;
+    border: none;
+    font-weight: 600;
+    border-radius: 4px;
+    padding: 5px 14px;
+}
+.vegetables-btn:hover{
+    color: #fff;
+}
+.category-section{
+    background-color: #F4F6F8;
+    padding: 20px 0;
+
+}
+.shop-all{
+    text-decoration: none;
+    color: #00AB55;
+}
+.shop-all:hover{
+    color: #00AB55;
+}
+.category-shop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}

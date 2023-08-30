@@ -1,0 +1,14 @@
+.footer-section{
+    border-top: 1px solid rgb(189, 167, 167);
+    background-color: #F4F6F8;
+}
+.footer-Part{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    text-align: left;
+}
+.ml-2{
+    margin-left: 6px;
+}

@@ -1,0 +1,25 @@
+.login-form{
+    background-color: #EDEDED;
+      padding: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .contact-info{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: left;
+      text-align: left;
+  }
+  .small-text{
+    display: flex;
+      flex-direction: column;
+      justify-content: left;
+      text-align: left;
+      padding-left: 5px;
+      font-weight: 700;
+      height: 50px;
+      background-color: #fff;
+  }
